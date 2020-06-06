@@ -7,3 +7,5 @@
   * **Day 2 [Delete Node In a Linked List](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/DeleteNodeInALinkedList.cpp)**
   * **Day 3 [Two City Scheduling](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/TwoCityScheduling.cpp)**
  * **Day 4 [Reverse String](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/ReverseString.cpp)**
+ * **Day 5 [Random Pick with Weight](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/RandomPickWithWeight.cpp)**
+ * **Day 6 [Queue Reconstruction by Height](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/QueueReconstructionByHeight.cpp)**
