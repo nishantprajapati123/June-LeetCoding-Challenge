@@ -10,3 +10,6 @@
  * **Day 5 [Random Pick with Weight](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/RandomPickWithWeight.cpp)**
  * **Day 6 [Queue Reconstruction by Height](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/QueueReconstructionByHeight.cpp)**
  * **Day 7 [Coin Change 2](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%201/CoinChange2.cpp)**
+ 
+**Week 2**
+  * **Day 8 [Power of Two](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%202/PowerOfTwo.cpp)** 
