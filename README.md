@@ -19,3 +19,6 @@
  * **Day 12 [Insert Delete GetRandom O(1)](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%202/InsertDeleteGetRandom.cpp)**
  * **Day 13 [Largest Divisible Subset](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%202/LargestDivisibleSubset.cpp)**
  * **Day 14 [Cheapest Flights Within K Stops](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%202/CheapestFlightsWithinKStops.cpp)**
+
+**Week 3**
+ * **Day 15 [Search in a Binary Search Tree](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%203/SearchInABinarySearchTree.cpp)**
