@@ -1,3 +1,5 @@
+// Time complexity :- O(1)
+// Space complexity :- O(n)
 class RandomizedSet {
 private:
     unordered_map<int, int>store;
