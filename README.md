@@ -26,3 +26,4 @@
  * **Day 17 [Surrounded Regions](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%203/SurroundedRegions.cpp)**
  * **Day 18 [H-Index II](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%203/HIndexII.cpp)**
  * **Day 19 [Longest Duplicate Substring](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%203/LongestDuplicateSubstring.cpp)**
+ * **Day 20 [Permutation Sequence](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%203/PermutationSequence.cpp)**
