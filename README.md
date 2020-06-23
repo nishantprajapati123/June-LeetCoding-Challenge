@@ -31,3 +31,4 @@
  
  **Week 4**
   * **Day 22 [Single Number II](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/SingleNumberII.cpp)**
+  * **Day 23 [Count Complete Tree Nodes](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/CountCompleteTreeNode.cpp)**
