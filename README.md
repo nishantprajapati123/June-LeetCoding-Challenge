@@ -34,4 +34,5 @@
  * **Day 23 [Count Complete Tree Nodes](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/CountCompleteTreeNode.cpp)**
  * **Day 24 [Unique Binary Search Trees](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/UniqueBinarySearchTrees.cpp)**
  * **Day 25 [Find the Duplicate Number](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/FindTheDuplicateNumber.cpp)**
+ * **Day 26 [Sum Root to Leaf Numbers](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/SumRootToLeafNumbers.cpp)**
  
