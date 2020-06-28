@@ -36,3 +36,4 @@
  * **Day 25 [Find the Duplicate Number](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/FindTheDuplicateNumber.cpp)**
  * **Day 26 [Sum Root to Leaf Numbers](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/SumRootToLeafNumbers.cpp)**
  * **Day 27 [Perfect Squares](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/PerfectSquares.cpp)**
+ * **Day 28 [Reconstruct Itinerary](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%204/ReconstructItinerary.cpp)**
