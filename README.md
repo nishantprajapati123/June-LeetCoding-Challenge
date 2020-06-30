@@ -40,3 +40,4 @@
  
 **Week 5**
  * **Day 29 [Unique Paths](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%205/UniquePaths.cpp)**
+ * **Day 30 [Word Search II](https://github.com/nishantprajapati123/June-LeetCoding-Challenge/blob/master/Week%205/WordSearchII.cpp)**
